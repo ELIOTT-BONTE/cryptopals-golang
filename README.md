@@ -24,3 +24,9 @@ we produce binary file that can be run directly
 
 syntax is concise
 garbage collection is automatic
+
+
+# Tutorial 1 : Hello World
+
+This is a Hello World program to get used to defining a main function, compiling the code to executable and executing it.
+fmt is used for print statements in GO.
